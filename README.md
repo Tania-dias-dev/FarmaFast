@@ -53,7 +53,7 @@ The database is still under construction and will be expanded with additional mo
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * CustomTkinter
@@ -62,7 +62,7 @@ The database is still under construction and will be expanded with additional mo
 
 
 
-## 📈 Project Status
+##  Project Status
 
 🔧 In development
 
@@ -72,18 +72,18 @@ The database is still under construction and will be expanded with additional mo
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and improvements are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for educational purposes and is currently under development.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Developed by **Tania Dias**
