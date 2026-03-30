@@ -1,6 +1,6 @@
-# 💊 FarmaFast
+#  FarmaFast
 
-## 📌 About the Project
+##  About the Project
 
 **FarmaFast** is a Python-based application with a graphical interface designed to assist in calculating medication dosages, particularly antibiotics.
 
