@@ -8,7 +8,7 @@ This project was inspired by a conversation with a pharmacist, who highlighted t
 
 ---
 
-## 🖥️ Interface Preview
+##  Interface Preview
 
 <p align="center">
   <img src="farmafast.png" alt="FarmaFast Interface" width="400"/>
@@ -16,7 +16,7 @@ This project was inspired by a conversation with a pharmacist, who highlighted t
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 To simplify and automate dosage calculations based on:
 
@@ -33,7 +33,7 @@ Helping to reduce:
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Intuitive graphical user interface (CustomTkinter)
 * Input for DCI (International Nonproprietary Name)
@@ -44,9 +44,9 @@ Helping to reduce:
 
 ---
 
-## 🗂️ Database
+##  Database
 
-The database (`moleculas.json`) was created based on data from **Infarmed**.
+The database was created based on data from **Infarmed**.
 
 ⚠️ **Note:**
 The database is still under construction and will be expanded with additional molecules and parameters over time.
@@ -60,29 +60,7 @@ The database is still under construction and will be expanded with additional mo
 * JSON
 * Pillow (PIL)
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/farmafast.git
-```
-
-2. Install dependencies:
-
-```bash
-pip install customtkinter pillow
-```
-
-3. Run the application:
-
-```bash
-python main.py
-```
-
----
 
 ## 📈 Project Status
 
